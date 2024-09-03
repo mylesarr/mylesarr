@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#My name is Myles Robinson and I am a MS in AI Engineering at Carnegie Mellon University
 <!--
 **mylesarr/mylesarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
