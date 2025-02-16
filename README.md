@@ -4,11 +4,12 @@ My name is Myles Robinson and I am a MS in AI Engineering student at Carnegie Me
 
 ## Projects & Work Experience
 
-### Predictive Maintenance Project @ Apple
+### IMU-based Activity Recognition
 
 ### Gesture-based Screen Control Using Sapiens Pose Estimation
 
-### IMU-based Activity Recognition
+### Predictive Maintenance Project @ Apple
+At Apple's manufacturing facilities, unexpected machine downtime was causing significant production losses, decreased operational efficiency, and higher capital and operational costs, ultimately impacting product revenue. To address this challenge, I developed a scalable predictive maintenance system using LSTM neural networks that processes and analyzes data from hundreds of manufacturing machines. The solution accurately identified high-risk equipment likely to experience downtime, enabling proactive maintenance scheduling before failures occur. This system was designed to scale seamlessly across multiple product lines including iPhone, Apple Watch, iPad, and Mac. The implementation demonstrated the value of smart manufacturing through predictive maintenance, potentially saving hundreds of thousands of dollars per factory while improving production line reliability and maintenance resource allocation. The successful proof-of-concept established a foundation for expanded implementation across Apple's international manufacturing network.
 
 ## Resume 
 
